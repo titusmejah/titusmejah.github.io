@@ -83,7 +83,7 @@ nav.scrolled { box-shadow: 0 4px 30px rgba(0,0,0,.4); }
     display: grid;
     grid-template-columns: 1.35fr 1fr;
     align-items: center;
-    padding: 6rem 5% 4.5rem;
+    padding: 7.5rem 5% 4.5rem;
     gap: 2.5rem;
     background: linear-gradient(135deg, #0a0f1e 0%, #0f1a35 60%, #0d1f3c 100%);
     position: relative;
